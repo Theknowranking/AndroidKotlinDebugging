@@ -22,8 +22,8 @@ The following REQUIRED features are completed:
 - [X] 4️⃣ Debug and fix Number Sum (2 + 2) activity
 - [X] 📅 Debug and fix Current Day activity 
 - [X] 🌈 Debug and fix behavior of Random Color activity
-- [ ] 🗒️ Debug and fix Print List activity
-- [ ] 💯 Debug and fix Favorite Number activity
+- [X] 🗒️ Debug and fix Print List activity
+- [X] 💯 Debug and fix Favorite Number activity
 
 The following STRETCH features are implemented:
 
@@ -39,7 +39,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='https://github.com/Theknowranking/AndroidKotlinDebugging/assets/54183267/c99678d8-40e2-4041-918a-40a43899d1eb' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+Video created with **Samsung Screen Recording**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
